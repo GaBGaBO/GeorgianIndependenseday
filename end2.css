@@ -1,0 +1,112 @@
+*{
+  padding:0px;
+  margin:0px;
+  box-sizing:border-box;
+}
+
+body{
+  background-image:url(anri.jpg);
+  background-repeat:no-repeat;
+  background-size:cover;
+  
+  
+}
+
+.georgia input{
+   width:640px;
+   position:absolute;
+   text-indent:50px; 
+   height:50px;
+   border-radius:60px;
+   font-size:17px;
+   color:black;
+   font-weight:bold;
+}
+.georgia{
+  text-align:center;
+  transform:translateY(520px);
+  margin-right:530px;
+}
+.georgia i{
+  position:relative;
+  margin-top:17px;
+  margin-left:20px;
+  font-size:17px;
+}
+.second i{
+  position:absolute;
+  margin-left:579px;
+  margin-top:-19px;
+  font-size:18px;
+  color:blue;
+}
+.georgia2{
+  width:500px;
+  height:270px;
+  background-color:#292828;
+  border:none;
+  border-radius:35px;
+  font-weight:bold;
+  position:absolute;
+  margin-top:175px;
+  margin-left:550px;
+  text-align:center;
+}
+.georgia3{
+  position:absolute;
+  width:400px;
+  height:60px;
+  border-radius:30px;
+  background-color:red;
+  margin-top:350px;
+  margin-left:604px;
+}
+.georgia3 p{
+  color:white;
+  position:relative; 
+  text-align:center;
+  font-size:60px;
+  font-weight:bold;
+  margin-top:-3px;
+  cursor:pointer;
+}
+.georgia3 p:hover{
+  transform:scale(1.4);
+  
+}
+
+.georgia3 img{
+  width:360px;
+  height:150px;
+  position:absolute;
+  margin-top:-216px;
+  margin-left:20px;
+}
+.georgia4 h1{
+  color:red;
+  font-size:60px;
+  margin-left:200px;
+  position:relative;
+  text-align:center;
+  margin-left:50px;
+  font-weight:bold;
+  
+}
+.georgia4 h1 span{
+  color:white;
+  font-weight:bold
+}
+
+.georgia4 p{
+  font-size:30px;
+  font-weight:bold;
+  position:absolute;
+  margin-top:600px;
+  margin-left:1172px;
+  color:red;
+}
+.georgia4 p span{
+  color:white;
+  font-weight:bold;
+}
+
